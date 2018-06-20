@@ -8,6 +8,8 @@
 # BUILDING OUT OUR CLASSES
 # Let's start by building out the Customer class and Waiter class. We want to make sure, when building out classes, that there's something to store each instance. That is to say: the Customer class should know about every customer instance that gets created.
 
+# ** Go through and add comments to the more obscure blocks of code **
+
 class Customer
 
     attr_accessor :name, :age
